@@ -1,0 +1,11 @@
+
+
+.bg{
+    background: url(images/unsplash.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 600px;
+    margin: 0;
+    padding: 0;
+}
